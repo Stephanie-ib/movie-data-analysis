@@ -48,3 +48,13 @@ If you'd like to run or review the notebook locally:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Stephanie-ib/movie-data-analysis.git](https://github.com/Stephanie-ib/movie-data-analysis.git)
+
+   '''
+Install the required dependencies:
+
+Bash
+pip install pandas numpy seaborn matplotlib
+Open the Jupyter Notebook:
+
+Bash
+jupyter notebook Movie_data_analysis.ipynb
